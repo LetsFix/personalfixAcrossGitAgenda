@@ -1,3 +1,6 @@
 [submodule "seeingbinary-web-code"]
 	path = seeingbinary-web-code
 	url = https://github.com/motsu35/seeingbinary-web-code.git
+[submodule "elixir-workshop"]
+	path = elixir-workshop
+	url = https://github.com/mwoods79/elixir-workshop.git
